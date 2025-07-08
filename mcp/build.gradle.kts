@@ -17,7 +17,7 @@ mavenPublishing {
     pom {
         name.set("mcp")
         description.set("MCP server for kdriver.")
-        url.set("https://github.com/guimauvedigital/kdriver-mcp")
+        url.set("https://github.com/cdpdriver/kdriver-mcp")
 
         licenses {
             license {
@@ -34,7 +34,7 @@ mavenPublishing {
             }
         }
         scm {
-            url.set("https://github.com/guimauvedigital/kdriver-mcp.git")
+            url.set("https://github.com/cdpdriver/kdriver-mcp.git")
         }
     }
 }

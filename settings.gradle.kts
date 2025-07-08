@@ -22,7 +22,7 @@ dependencyResolutionManagement {
             plugin("maven", "com.vanniktech.maven.publish").version("0.30.0")
 
             // Main
-            library("kdriver", "dev.kdriver:core:0.1.20")
+            library("kdriver", "dev.kdriver:core:0.2.3")
             library("mcp", "io.modelcontextprotocol:kotlin-sdk:0.5.0")
             library("logback-core", "ch.qos.logback:logback-core:1.5.18")
             library("logback-classic", "ch.qos.logback:logback-classic:1.5.18")
